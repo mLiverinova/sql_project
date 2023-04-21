@@ -1,14 +1,14 @@
 # Анализ данных HeadHunter с использованием SQL-запросов
 
--    [1 Описание проекта](https://github.com/mLiverinova/HH_project/blob/main/README.md#project_description)
--    [2 Информация о данных](https://github.com/mLiverinova/HH_project/blob/main/README.md#data-information)
--    [3 Этапы проекта](https://github.com/mLiverinova/HH_project/blob/main/README.md#stages-of-the-project)
--    [4 Результат](https://github.com/mLiverinova/HH_project/blob/main/README.md#result)
+-    [1 Описание проекта](https://github.com/mLiverinova/sql_project/blob/main/README.md#описание-проекта)
+-    [2 Информация о данных](https://github.com/mLiverinova/sql_project/blob/main/README.md#информация-о-данных)
+-    [3 Этапы проекта](https://github.com/mLiverinova/sql_project/blob/main/README.md#этапы-проекта)
+-    [4 Результат](https://github.com/mLiverinova/sql_project/blob/main/README.md#result)
 
 #### Описание проекта
 Проект содержит в себе анализ данных и выводы по базе данных из HedHunter с использованием SQL-запросов. Для подключения к базе данных и к полученной аналитике необходимо знать параметры соединения.
 
-:yellow_circle:[To contents](https://github.com/mLiverinova/HH_project/blob/main/README.md#сontents)
+:yellow_circle:[К оглавлению](https://github.com/mLiverinova/sql_project/blob/main/README.md#анализ-данных-headhunter-с-использованием-sql-запросов)
 
 #### Информация о данных
 Данные состоят из 5 таблиц: VACANCIES - содержит информацию о вакансиях; AREAS - таблица-справочник, которая хранит код города и его название; EMPLOYERS - таблица-справочник со списком работодателей; INDUSTRIES - таблица-справочник вариантов сфер деятельности работодателей; EMPLOYERS_INDUSTRIES - Дополнительная таблица, которая существует для организации связи между работодателями и сферами их деятельности. Таблицы связаны между собой столбцами, имеющими различные названия.
@@ -24,4 +24,4 @@
 По каждому этапу сделаны выводы по проведенным исследованиям. Также в заключении представлены общие выводы по базе данных вакансий.
 
 
-:yellow_circle:[To contents](https://github.com/mLiverinova/HH_project/blob/main/README.md#сontents)
+:yellow_circle:[К оглавлению](https://github.com/mLiverinova/sql_project/blob/main/README.md#анализ-данных-headhunter-с-использованием-sql-запросов)
